@@ -1,8 +1,33 @@
-# React + Vite
+# Calculadora de presupuestos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Este proyecto utiliza **React**, **Vite** y **TailwindCSS**.
 
-Currently, two official plugins are available:
+### Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**CRUD**
+- Create
+- Read
+- Update
+- Delete
+
+### Instalación
+
+Para instalar y ejecutar el proyecto, sigue estos pasos:
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/nicking94/calculadora-presupuestos.git
+   ```
+2. Instala las dependencias:
+   ```bash
+   cd calcular-presupuestos
+   npm install
+   ```
+3. Inicia la aplicación:
+   ```bash
+   npm run dev
+   ```
+
+### Link al demo
+
+https://calculadora-gastos-nk.netlify.app/
